@@ -1,3 +1,11 @@
+input.onButtonPressed(Button.A, function () {
+    radio.sendString("micro:bit OS")
+    serial.writeLine("micro:bit OS")
+})
+input.onButtonPressed(Button.B, function () {
+    radio.sendString("Hey I booted!")
+    serial.writeLine("Hey I booted!")
+})
 basic.showLeds(`
     # # # . #
     # . # . #
