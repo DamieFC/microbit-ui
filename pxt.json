@@ -5,7 +5,8 @@
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "microturtle": "github:microsoft/pxt-microturtle#v0.0.9"
+        "microturtle": "github:microsoft/pxt-microturtle#v0.0.9",
+        "radio-broadcast": "*"
     },
     "files": [
         "main.blocks",

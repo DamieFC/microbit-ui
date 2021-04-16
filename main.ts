@@ -2,6 +2,9 @@ input.onButtonPressed(Button.A, function () {
     radio.sendString("micro:bit OS")
     serial.writeLine("micro:bit OS")
 })
+radio.onReceivedString(function (receivedString) {
+    serial.writeLine("Hey I got something over radio! It's a strong!")
+})
 input.onButtonPressed(Button.B, function () {
     radio.sendString("Hey I booted!")
     serial.writeLine("Hey I booted!")
