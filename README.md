@@ -1,5 +1,5 @@
 
-> Open this page at [https://damiefc.github.io/microbit-os/](https://damiefc.github.io/microbit-os/)
+> Open this page at [https://damiefc.github.io/microbit-ui/](https://damiefc.github.io/microbit-ui/)
 
 ## Use as Extension
 
@@ -8,22 +8,22 @@ This repository can be added as an **extension** in MakeCode.
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
-* search for **https://github.com/damiefc/microbit-os** and import
+* search for **https://github.com/damiefc/microbit-ui** and import
 
-## Edit this project ![Build status badge](https://github.com/damiefc/microbit-os/workflows/MakeCode/badge.svg)
+## Edit this project ![Build status badge](https://github.com/damiefc/microbit-ui/workflows/MakeCode/badge.svg)
 
 To edit this repository in MakeCode.
 
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **Import** then click on **Import URL**
-* paste **https://github.com/damiefc/microbit-os** and click import
+* paste **https://github.com/damiefc/microbit-ui** and click import
 
 ## Blocks preview
 
 This image shows the blocks code from the last commit in master.
 This image may take a few minutes to refresh.
 
-![A rendered view of the blocks](https://github.com/damiefc/microbit-os/raw/master/.github/makecode/blocks.png)
+![A rendered view of the blocks](https://github.com/damiefc/microbit-ui/raw/master/.github/makecode/blocks.png)
 
 #### Metadata (used for search, rendering)
 
